@@ -14,7 +14,12 @@
 </template>
 
 <style lang="scss">
-  
+  // .router-link-active{
+  //   color:red;
+  // }
+  // .router-link-exact-active{
+  //   color:orange;
+  // }
   .abc{
     color:red;
   }
